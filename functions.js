@@ -102,4 +102,3 @@ module.exports = {
   getChannelByVideoTitle,
   searchChannels,
 };
-// return channel.videos.some(video => video.title === videoTitle);
